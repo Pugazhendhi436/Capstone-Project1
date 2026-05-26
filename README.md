@@ -4,4 +4,4 @@ Excel Automation using Python Programming
 
 To Run
 
-python students-fees-excel-automation.py python fees_save_db.py python fees_chart.py
+python Excel-Automation.py python fees_db.py python fees_chart.py
